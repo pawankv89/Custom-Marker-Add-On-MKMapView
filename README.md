@@ -1,14 +1,14 @@
 
-AddCustomMarkerMKMapView
+Custom Marker Add On MKMapView
 =========
 
-## AddCustomMarkerMKMapView.
+## Custom Marker Add On MKMapView.
 ------------
  Added Some screens here.
  
-[![](https://github.com/pawankv89/AddCustomMarkerMKMapView/blob/master/images/screen_1.png)]
-[![](https://github.com/pawankv89/AddCustomMarkerMKMapView/blob/master/images/screen_2.png)]
-[![](https://github.com/pawankv89/AddCustomMarkerMKMapView/blob/master/images/screen_3.png)]
+![](https://github.com/pawankv89/AddCustomMarkerMKMapView/blob/master/images/screen_1.png)
+![](https://github.com/pawankv89/AddCustomMarkerMKMapView/blob/master/images/screen_2.png)
+![](https://github.com/pawankv89/AddCustomMarkerMKMapView/blob/master/images/screen_3.png)
 
 
 ## Usage
